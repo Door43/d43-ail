@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ail:home|Door43 (ail)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ail|d43-ail repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ail/archive/master.zip|d43-ail.zip]]
+
+**Recent Changes**
+{{changes>ns = ail}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ail|Ethnologue data]]
+
